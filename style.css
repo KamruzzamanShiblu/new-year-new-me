@@ -83,3 +83,35 @@ ul{
         margin-left: 20px;
 }
 
+/* work section styles here  */
+.my-plane{
+        text-align: center;
+        font-weight: 700;
+font-size: 40px;
+color: #151414;
+margin-top: 120px;
+/* margin-bottom: 50px; */
+}
+.work-section{
+        display: flex;
+        gap: 70px;
+        margin: 50px 230px;
+        justify-content: space-between;
+}
+.work-section h3{
+        font-size: 30px;
+        font-weight: 700px;
+        margin-top: 15px;
+        color: #151414;
+}
+.work-section h4{
+        font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+}
+.work-section img{
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+}
