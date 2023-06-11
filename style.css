@@ -115,3 +115,87 @@ color: #737272;
         justify-content: center;
         margin-left: 50px;
 }
+/* watch section styles here  */
+.watch-section{
+        width: 1140px;
+        height: 300px; 
+        margin-bottom: 260px;
+
+}
+.watch{
+position:relative;
+width: 1140px;
+height: 300px;
+text-align: center;
+margin: 130px 230px;
+}
+.gradient{
+        position: absolute;
+        width: 1140px;
+        height: 300px;
+        left: 230px;
+        top: 2192.96px;
+}
+
+   
+
+
+      
+
+.watch-text{
+        position: absolute;
+        width: 459px;
+        height: 94px;
+        left: 250px;
+        top: 2280.96px;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 35px;
+        margin-bottom: 24px;
+        
+    
+}
+.btn-watch{
+        position: absolute;
+        left: 250px;
+        top: 2380.96px;
+        width: 160px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+color: #005FAC;
+border: none;
+border-radius: 8px;
+}
+/* footer styles */
+.footer-section{
+        width: 1600px;
+height: 577px;
+background: #151414;
+}
+.footer-container{
+        display: flex;
+}
+
+.future-container{
+        position: absolute;
+        margin-top: 200px;
+        width: 485px;
+        height: 317px;
+        margin-left: 230px;
+        
+}
+.future-container p{
+        color: #FFFFFF;
+}
+.icon-title{
+     
+        font-weight: 700;
+        font-size: 45px;
+       
+        color: #F8F8F8;
+}
+.icon-description{
+        color: #FFFFFF;
+}
+
